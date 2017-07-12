@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\workspace\Practice\play-java-seed\conf\application.conf,C:\workspace\Practice\play-java-seed\target\scala-2.12\classes\application.conf)
+[debug] 	(C:\workspace\Practice\play-java-seed\conf\logback.xml,C:\workspace\Practice\play-java-seed\target\scala-2.12\classes\logback.xml)
+[debug] 	(C:\workspace\Practice\play-java-seed\conf\routes,C:\workspace\Practice\play-java-seed\target\scala-2.12\classes\routes)
